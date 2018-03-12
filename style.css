@@ -125,7 +125,7 @@ a:focus,a:hover {
 	padding: 200px 0;
 	text-align: center;
 	color: #fff;
-	background: url('https://cdn.glitch.com/130abab3-ca06-4907-aa1b-ca95d75c9862%2Ftop-bg-2.jpg') no-repeat bottom center scroll;
+	background: url('/img/top-bg-2.jpg') no-repeat bottom center scroll;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -189,7 +189,7 @@ a:focus,a:hover {
 
 .download-section {
 	color: #fff;
-	background: url('https://cdn.glitch.com/130abab3-ca06-4907-aa1b-ca95d75c9862%2Frequest-2.jpg') no-repeat center center scroll;
+	background: url('/img/request-2.jpg') no-repeat center center scroll;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
